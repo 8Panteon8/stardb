@@ -1,0 +1,9 @@
+.container {
+  max-width: 900px;
+}
+.error-button {
+  margin-bottom: 1rem;
+}
+.error-button button {
+  margin-left: 1rem;
+}
